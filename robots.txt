@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /webanaly-resume-nikkieyabs/external_files/
+Disallow: /webanaly-resume-nikkieyabs/external_files/*
